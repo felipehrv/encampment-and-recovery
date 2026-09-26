@@ -4,7 +4,7 @@
 
 A visual essay built from an original household survey. Between May and July 2016, 391 Syrian refugee households were interviewed in Jordan, 257 in Zaatari camp and 134 in Irbid, Ramtha, Jerash, Zarqa and nearby towns. Every household answered the same questionnaire twice over: about its life in Jordan, and about its life in Syria before displacement. That second module turns a cross-section into a two-period panel of the same families, and it is what lets the essay separate what living outside the camp did from who chose to leave it.
 
-**[Read the visual essay](https://felipehrv.github.io/encampment-and-recovery/](https://felipehrv.github.io/encampment-and-recovery/index.html)**
+**[Read the visual essay](https://felipehrv.github.io/encampment-and-recovery/index.html)**
 
 ## What the page shows
 
