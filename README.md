@@ -44,7 +44,7 @@ This repository holds the essay itself, a single self-contained HTML file with n
 
 ## Citation
 
-Rodríguez Villalta, F. H. (2026). *Encampment, Self-Settlement and the Recovery of Displaced Households: Syrian Refugees in Jordan*. Visual essay. [https://USERNAME.github.io/encampment-and-recovery/](**[Read the visual essay](https://felipehrv.github.io/encampment-and-recovery/index.html)**)
+Rodríguez Villalta, F. H. (2026). *Encampment, Self-Settlement and the Recovery of Displaced Households: Syrian Refugees in Jordan*. Visual essay. [https://USERNAME.github.io/encampment-and-recovery/]
 
 A `CITATION.cff` file is included; GitHub renders it under "Cite this repository".
 
