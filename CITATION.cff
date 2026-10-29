@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this brief, the technical note or the workbooks of the review, please cite them as below."
+title: "Encampment, Self-Settlement and the Recovery of Displaced Households: Syrian Refugees in Jordan"
+authors:
+  - family-names: "Rodríguez Villalta"
+    given-names: "Felipe Hernán"
+type: software
+version: "2.0.0"
+date-released: "2026-10-28"
+url: "https://felipehrv.github.io/encampment-and-recovery/"
+repository-code: "https://github.com/felipehrv/encampment-and-recovery"
+license: "CC-BY-4.0"
+abstract: "A brief, a technical note and the workbooks of a review of an original 2016 survey of 391 Syrian refugee households in Jordan, 257 in Zaatari camp and 134 in the towns of the north, each asked about life in Jordan and about life in Syria before the war. The materials read the survey as a comparison of households living under two support packages, the camp's and the towns', among households with the same pre-war traits. They describe what each package let a household do with what it had brought from Syria, under checks fixed before the estimates were read; they do not estimate the effect of living in a camp and do not say which package is better. Every published figure is an aggregate that protects the households."
+keywords:
+  - refugees
+  - Jordan
+  - Syria
+  - Zaatari
+  - household survey
+  - encampment
+  - humanitarian assistance
+  - development economics
+preferred-citation:
+  type: unpublished
+  title: "Encampment, Self-Settlement and the Recovery of Displaced Households: Syrian Refugees in Jordan"
+  authors:
+    - family-names: "Rodríguez Villalta"
+      given-names: "Felipe Hernán"
+  year: 2026
+  notes: "Working paper. The brief and the technical note are at https://felipehrv.github.io/encampment-and-recovery/"
